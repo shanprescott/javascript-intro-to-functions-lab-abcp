@@ -8,3 +8,7 @@ function whisper(string) {
   return string.toLowerCase()
 }
 whisper()
+
+function sayHitoGrandma(string) {
+  
+}
